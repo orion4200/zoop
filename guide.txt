@@ -1,0 +1,11 @@
+navbar -> input_text search_btn Home shop about login cart_icon
+
+footer -> 
+
+**cart.html**
+
+- used table tag for displaying items of cart
+
+**shop.html**
+
+- each product can be viewed through sproduct.html
